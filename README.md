@@ -1,9 +1,7 @@
 ## Welcome to Campion GitHub Pages
 owned by Anne Claudia Camonas
 
-You can use the [editor on GitHub](https://github.com/eysfmx/eysfmx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![ARE YOU CURIOUS ABOUT ALOE VERAS](https://github.com/eysfmx/eysfmx.github.io/blob/main/ARE%20CURIOUS%20ABOUT%20ALOE%20VERAS.png)
 
 ### Markdown
 
