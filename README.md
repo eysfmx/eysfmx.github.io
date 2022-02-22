@@ -1,8 +1,7 @@
 ## Welcome to Campion GitHub Pages
 owned by Anne Claudia Camonas
 
-![zz.png](https://github.com/eysfmx/eysfmx.github.io/blob/main/zz.png)
-
+![zz](https://github.com/eysfmx/eysfmx.github.io/blob/main/zz.png?raw=true)
 
 # WHAT IS AN ALOE VERA?
 An **Aloe Vera** whose leaves furnish a gelatinous emollient extract used especially in cosmetics and skin creams also : such an extract or a preparation
