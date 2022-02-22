@@ -1,7 +1,7 @@
 ## Welcome to Campion GitHub Pages
 owned by Anne Claudia Camonas
 
-![ARE YOU CURIOUS ABOUT ALOE VERAS](https://github.com/eysfmx/eysfmx.github.io/blob/main/ARE%20CURIOUS%20ABOUT%20ALOE%20VERAS.png)
+![aaa.png](https://github.com/eysfmx/eysfmx.github.io/blob/main/aaa.png)
 
 # WHAT IS AN ALOE VERA?
 an **Aloe Vera** whose leaves furnish a gelatinous emollient extract used especially in cosmetics and skin creams also : such an extract or a preparation
